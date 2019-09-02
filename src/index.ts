@@ -1,5 +1,4 @@
-import { waitForCondition, waitForCss } from "./utils/steps";
-import { maxBy } from "./utils/collections";
+import { waitForCss } from "./utils/steps";
 import { setLineup } from "./benchOptimizer";
 
 console.log("running script");
